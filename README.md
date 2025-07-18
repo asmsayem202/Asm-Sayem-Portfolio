@@ -1,4 +1,4 @@
-# 💼 A. S. M. Sayem – Developer Portfolio
+# 💼 A. S. M. SAYEM – .NET Developer Portfolio
 
 Welcome to my personal portfolio website!  
 This project showcases who I am as a **Full Stack .NET Developer**, highlighting my skills, experience, education, and contact details — all built with clean, modern UI/UX using **HTML** and **Tailwind CSS**.
